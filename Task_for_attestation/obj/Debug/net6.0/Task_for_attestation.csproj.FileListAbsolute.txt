@@ -1,0 +1,15 @@
+C:\Users\hgala\GB_Programs\Level1\Attestation_First_Block\Task_for_attestation\bin\Debug\net6.0\Task_for_attestation.exe
+C:\Users\hgala\GB_Programs\Level1\Attestation_First_Block\Task_for_attestation\bin\Debug\net6.0\Task_for_attestation.deps.json
+C:\Users\hgala\GB_Programs\Level1\Attestation_First_Block\Task_for_attestation\bin\Debug\net6.0\Task_for_attestation.runtimeconfig.json
+C:\Users\hgala\GB_Programs\Level1\Attestation_First_Block\Task_for_attestation\bin\Debug\net6.0\Task_for_attestation.dll
+C:\Users\hgala\GB_Programs\Level1\Attestation_First_Block\Task_for_attestation\bin\Debug\net6.0\Task_for_attestation.pdb
+C:\Users\hgala\GB_Programs\Level1\Attestation_First_Block\Task_for_attestation\obj\Debug\net6.0\Task_for_attestation.csproj.AssemblyReference.cache
+C:\Users\hgala\GB_Programs\Level1\Attestation_First_Block\Task_for_attestation\obj\Debug\net6.0\Task_for_attestation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hgala\GB_Programs\Level1\Attestation_First_Block\Task_for_attestation\obj\Debug\net6.0\Task_for_attestation.AssemblyInfoInputs.cache
+C:\Users\hgala\GB_Programs\Level1\Attestation_First_Block\Task_for_attestation\obj\Debug\net6.0\Task_for_attestation.AssemblyInfo.cs
+C:\Users\hgala\GB_Programs\Level1\Attestation_First_Block\Task_for_attestation\obj\Debug\net6.0\Task_for_attestation.csproj.CoreCompileInputs.cache
+C:\Users\hgala\GB_Programs\Level1\Attestation_First_Block\Task_for_attestation\obj\Debug\net6.0\Task_for_attestation.dll
+C:\Users\hgala\GB_Programs\Level1\Attestation_First_Block\Task_for_attestation\obj\Debug\net6.0\refint\Task_for_attestation.dll
+C:\Users\hgala\GB_Programs\Level1\Attestation_First_Block\Task_for_attestation\obj\Debug\net6.0\Task_for_attestation.pdb
+C:\Users\hgala\GB_Programs\Level1\Attestation_First_Block\Task_for_attestation\obj\Debug\net6.0\Task_for_attestation.genruntimeconfig.cache
+C:\Users\hgala\GB_Programs\Level1\Attestation_First_Block\Task_for_attestation\obj\Debug\net6.0\ref\Task_for_attestation.dll
